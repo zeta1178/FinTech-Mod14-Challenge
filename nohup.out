@@ -1,0 +1,33 @@
+[I 2022-09-04 18:34:35.973 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-09-04 18:34:36.145 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-09-04 18:34:36.146 ServerApp] notebook_shim | extension was successfully linked.
+[I 2022-09-04 18:34:36.166 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2022-09-04 18:34:36.167 LabApp] JupyterLab extension loaded from /Users/michaelcruz/opt/miniconda3/envs/dev/lib/python3.9/site-packages/jupyterlab
+[I 2022-09-04 18:34:36.167 LabApp] JupyterLab application directory is /Users/michaelcruz/opt/miniconda3/envs/dev/share/jupyter/lab
+[I 2022-09-04 18:34:36.168 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-09-04 18:34:36.171 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-09-04 18:34:36.171 ServerApp] The port 8888 is already in use, trying another port.
+[I 2022-09-04 18:34:36.172 ServerApp] The port 8889 is already in use, trying another port.
+[I 2022-09-04 18:34:36.172 ServerApp] The port 8890 is already in use, trying another port.
+[I 2022-09-04 18:34:36.172 ServerApp] Serving notebooks from local directory: /Users/michaelcruz/git/FinTech-Mod14-Challenge
+[I 2022-09-04 18:34:36.172 ServerApp] Jupyter Server 1.18.1 is running at:
+[I 2022-09-04 18:34:36.172 ServerApp] http://localhost:8891/lab?token=77e37ed71ffddffce2ffcb2880280a45d0b4a131c1c5bf12
+[I 2022-09-04 18:34:36.172 ServerApp]  or http://127.0.0.1:8891/lab?token=77e37ed71ffddffce2ffcb2880280a45d0b4a131c1c5bf12
+[I 2022-09-04 18:34:36.172 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2022-09-04 18:34:36.174 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/michaelcruz/Library/Jupyter/runtime/jpserver-95730-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8891/lab?token=77e37ed71ffddffce2ffcb2880280a45d0b4a131c1c5bf12
+     or http://127.0.0.1:8891/lab?token=77e37ed71ffddffce2ffcb2880280a45d0b4a131c1c5bf12
+[I 2022-09-04 18:34:39.074 LabApp] Build is up to date
+[W 2022-09-04 18:34:39.102 ServerApp] 404 GET /api/contents/git/FinTech-Mod13-Challenge/venture_funding_with_deep_learning.ipynb?content=0&1662330879075 (::1): file or directory does not exist: 'git/FinTech-Mod13-Challenge/venture_funding_with_deep_learning.ipynb'
+[W 2022-09-04 18:34:39.102 ServerApp] file or directory does not exist: 'git/FinTech-Mod13-Challenge/venture_funding_with_deep_learning.ipynb'
+[W 2022-09-04 18:34:39.102 ServerApp] 404 GET /api/contents/git/FinTech-Mod13-Challenge/venture_funding_with_deep_learning.ipynb?content=0&1662330879075 (::1) 0.86ms referer=http://localhost:8891/lab
+[W 2022-09-04 18:34:39.716 ServerApp] 404 GET /api/contents/git/FinTech-Mod13-Challenge?1662330879713 (::1): file or directory does not exist: 'git/FinTech-Mod13-Challenge'
+[W 2022-09-04 18:34:39.716 ServerApp] file or directory does not exist: 'git/FinTech-Mod13-Challenge'
+[W 2022-09-04 18:34:39.717 ServerApp] 404 GET /api/contents/git/FinTech-Mod13-Challenge?1662330879713 (::1) 2.02ms referer=http://localhost:8891/lab
+[W 2022-09-04 18:34:44.069 ServerApp] Notebook machine_learning_trading_bot.ipynb is not trusted
+[I 2022-09-04 18:34:44.395 ServerApp] Kernel started: d05eb0dc-faf6-41a6-a071-e06c14a97ee5
+[I 2022-09-04 18:35:48.312 ServerApp] Saving file at /machine_learning_trading_bot.ipynb
