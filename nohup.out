@@ -31,3 +31,7 @@
 [W 2022-09-04 18:34:44.069 ServerApp] Notebook machine_learning_trading_bot.ipynb is not trusted
 [I 2022-09-04 18:34:44.395 ServerApp] Kernel started: d05eb0dc-faf6-41a6-a071-e06c14a97ee5
 [I 2022-09-04 18:35:48.312 ServerApp] Saving file at /machine_learning_trading_bot.ipynb
+[I 2022-09-04 18:36:49.050 ServerApp] Kernel shutdown: d05eb0dc-faf6-41a6-a071-e06c14a97ee5
+[I 2022-09-04 18:36:49.376 ServerApp] Shutting down on /api/shutdown request.
+[I 2022-09-04 18:36:49.377 ServerApp] Shutting down 3 extensions
+[I 2022-09-04 18:36:49.377 ServerApp] Shutting down 0 terminals
