@@ -46,4 +46,5 @@ Did this new model perform better or worse than the provided baseline model?
 Did this new model perform better or worse than your tuned trading algorithm?
 
 Answer: This new model performed about the same as the provided baseline model.
+
 Answer: This new model performed worse than the tuned trading algorithm.
